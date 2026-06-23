@@ -2,7 +2,7 @@ import cv2
 import json
 
 # ここを自分の画像ファイル名に変える
-IMAGE_PATH = "sample_images/fretboard.jpg"
+IMAGE_PATH = "sample_images/fretboard.png"
 SAVE_PATH = "calibration_points.json"
 
 points = []
