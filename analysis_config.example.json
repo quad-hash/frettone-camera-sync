@@ -1,0 +1,17 @@
+{
+  "analysis": {
+    "onset_threshold": 3.0,
+    "min_note_gap": 0.09,
+    "min_note_duration": 0.08,
+    "pitch_window": 0.32,
+    "pitch_skip": 0.025,
+    "rms_threshold": 0.006,
+    "max_fret": 24,
+    "video_marker_min_area": 45.0,
+    "video_baseline_offset": 0.075,
+    "video_onset_offset": 0.045,
+    "visual_weight": 1.1,
+    "hand_tracks": "hand_tracks.json",
+    "hand_track_window": 0.14
+  }
+}
